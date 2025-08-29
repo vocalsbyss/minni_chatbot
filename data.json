@@ -1,0 +1,18 @@
+[
+    {
+        "user": "Hi",
+        "bot": "Hello! How can I help you today?"
+    },
+    {
+        "user": "What is your name?",
+        "bot": "I am a chatbot powered by OpenRouter and ChatGPT."
+    },
+    {
+        "user": "Tell me a joke",
+        "bot": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "user": "Bye",
+        "bot": "Goodbye! Have a wonderful day!"
+    }
+]
